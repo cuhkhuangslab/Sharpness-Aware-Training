@@ -43,9 +43,10 @@ The demo code is 'System1-MRR Weight Bank / 01-Training with different methods.i
 If you find our code helpful in your research or work, please cite our paper.
 
 ```bibtex
-@article{xu2024perfecting,
-  title={Perfecting Imperfect Physical Neural Networks with Transferable Robustness using Sharpness-Aware Training},
+@article{xu2026physical,
+  title={Physical neural networks using sharpness-aware training},
   author={Xu, Tengji and Luo, Zeyu and Liu, Shaojie and Fan, Li and Xiao, Qiarong and Wang, Benshan and Wang, Dongliang and Huang, Chaoran},
-  journal={arXiv preprint arXiv:2411.12352},
-  year={2024}
+  journal={Nature Communications},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
 }
